@@ -1,5 +1,5 @@
 
-# Metodos numericos
+# Métodos numéricos
 
 ## Primer parcial
 
@@ -9,5 +9,7 @@
 - [Métodos cerrados](notebook/metodos_cerrados.ipynb)
   - Método bisección
   - Falsa posición
-- [Metodos abiertos](notebook/metodos_abiertos.ipynb)
-  - Punto fijo
+- [Métodos abiertos](notebook/metodos_abiertos.ipynb)
+  - Iteración de punto fijo
+  - Newton Rapson
+  - De la secante
