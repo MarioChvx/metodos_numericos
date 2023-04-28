@@ -3,10 +3,10 @@
 
 ## Primer parcial
 
-- [Aritmética de punto flotante](noteboosk/punto_flotante.ipynb)
+- [Aritmética de punto flotante](notebooks/punto_flotante.ipynb)
   - Conversion de decimal a flotante en binario
   - Conversion de flotante en binario a decimal
-- [Métodos cerrados](noteboosk/metodos_cerrados.ipynb)
+- [Métodos cerrados](notebooks/metodos_cerrados.ipynb)
   - Bisección
   - Falsa posición
 - [Métodos abiertos](notebooks/metodos_abiertos.ipynb)
