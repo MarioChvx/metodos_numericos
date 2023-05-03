@@ -17,3 +17,7 @@
   - Muller
   - Bairstow
 - [Derivación numérica](notebooks/derivacion_numerica.ipynb)
+  - Formula de diferencia progresiva y regresiva
+  - Formula de (n+1) puntos
+  - Formula de 3 y 5 puntos
+  - Extrapolacion de Richardson
